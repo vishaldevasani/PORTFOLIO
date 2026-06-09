@@ -2,7 +2,7 @@
 
 A personal portfolio website built with vanilla HTML, CSS, and JavaScript.
 
-🔗 **Live:** [your-domain.com](#) &nbsp;|&nbsp; 📄 **Resume:** [View on Drive](#)
+🔗 **Live:**(https://drive.google.com/file/d/1Uw28KLRM6Inw4ixMD555TY0w8W-k7T3i/view) &nbsp;|&nbsp; 📄 **Resume:**(https://drive.google.com/file/d/1Uw28KLRM6Inw4ixMD555TY0w8W-k7T3i/view)
 
 ---
 
@@ -66,7 +66,7 @@ portfolio/
 ## Contact
 
 - 📧 vishaldevasani67@gmail.com
-- 💼 [linkedin.com/in/vishaldevasani](https://linkedin.com/in/vishaldevasani)
+- 💼 [linkedin.com/in/vishaldevasani](https://github.com/vishaldevasani/PORTFOLIO.git)
 - 🐙 [github.com/vishaldevasani](https://github.com/vishaldevasani)
 
 ---
