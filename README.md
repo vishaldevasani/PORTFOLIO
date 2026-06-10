@@ -18,17 +18,6 @@ A personal portfolio website built with HTML, CSS, and JavaScript.
 
 ---
 
-## Structure
-
-```
-portfolio/
-├── index.html
-├── style.css
-└── script.js
-```
-
----
-
 ## Contact
 
 - 📧 vishaldevasani67@gmail.com
