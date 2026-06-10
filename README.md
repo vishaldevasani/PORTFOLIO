@@ -18,17 +18,6 @@ A personal portfolio website built with HTML, CSS, and JavaScript.
 
 ---
 
-## Getting Started
-
-```bash
-# Clone the repo
-git clone https://github.com/vishaldevasani/portfolio.git
-
-# Open in browser
-open index.html
-
----
-
 ## Structure
 
 ```
