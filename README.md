@@ -2,7 +2,8 @@
 
 A personal portfolio website built with HTML, CSS, and JavaScript.
 
-🔗 **Live:**[MY-PORTFOLIO](https://vishaldevasani.github.io/PORTFOLIO/) &nbsp;|&nbsp; 📄 **Resume:**[RESUME](https://drive.google.com/file/d/1Uw28KLRM6Inw4ixMD555TY0w8W-k7T3i/view)
+🔗 **Live:**[MY-PORTFOLIO](https://vishaldevasani.github.io/PORTFOLIO/)
+📄 **Resume:**[RESUME](https://drive.google.com/file/d/1Uw28KLRM6Inw4ixMD555TY0w8W-k7T3i/view)
 
 ---
 
