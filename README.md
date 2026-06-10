@@ -18,18 +18,6 @@ A personal portfolio website built with HTML, CSS, and JavaScript.
 
 ---
 
-## Projects
-
-| # | Project | Stack |
-|---|---------|-------|
-| 01 | [Civix — AI Civic Platform](https://stupendous-syrniki-d33f4f.netlify.app/) | HTML/CSS/JS, Node.js, FastAPI, Python, Twilio |
-| 02 | [Code Mapper](https://codemapper.vercel.app/) | React, D3.js, Node.js, Groq, GitHub API |
-| 03 | [Code Sentinel](https://codesentinel-final.onrender.com) | Python, FastAPI, GitHub Webhooks, Groq, Gemini |
-| 04 | AI Study Assistant | Python, Flask, HuggingFace API |
-
-
----
-
 ## Getting Started
 
 ```bash
