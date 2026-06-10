@@ -26,9 +26,6 @@ git clone https://github.com/vishaldevasani/portfolio.git
 
 # Open in browser
 open index.html
-```
-
-No build tools or dependencies required — just open `index.html`.
 
 ---
 
